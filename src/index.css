@@ -5,3 +5,12 @@ body {
 .title {
 	color: red;
 }
+
+.button {
+	padding: 10px;
+	font-size: 1.3rem;
+	background-color: cadetblue;
+	margin-right: 10px;
+	border: none;
+	border-radius: 50px;
+}
